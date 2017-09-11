@@ -1,4 +1,4 @@
-# Noise detection
+# Sentilo sensors: Noise detection
 
 ## About
 
